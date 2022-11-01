@@ -1,0 +1,9 @@
+<html>
+<head>University Description</head>
+<body>
+Rutgers Newark is located in Newark, Nj. There are over 100 majors to choose from. The student body is about 15,000!<br>
+<br>
+At this university I am a Computer Science Major and a Data Science Minor. I am doing assisting in visual perception research.<br>
+
+</body>
+</html>
